@@ -40,7 +40,7 @@
     "buffer": "^6.0.3",
     "color-diff": "^1.4.0",
     "date-fns": "^2.26.0",
-    "expo": "~49.0.23",
+    "expo": "~50.0.0",
     "expo-auth-session": "^5.2.0",
     "expo-barcode-scanner": "~12.3.2",
     "expo-camera": "^13.9.0",
