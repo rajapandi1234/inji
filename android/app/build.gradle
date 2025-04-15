@@ -268,7 +268,7 @@ dependencies {
         exclude group: 'com.google.crypto.tink', module: 'tink'
     }
     implementation("com.facebook.react:react-android")
-    implementation 'com.facebook.soloader:soloader:0.10.1+'
+    implementation 'com.facebook.soloader:soloader:0.12.1+'
     implementation("io.mosip:pixelpass-aar:0.7.0-SNAPSHOT")
     implementation("io.mosip:secure-keystore:0.3.0")
     implementation("io.mosip:tuvali:0.5.2-SNAPSHOT")
