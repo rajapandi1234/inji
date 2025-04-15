@@ -293,7 +293,7 @@ dependencies {
 
     if (isGifEnabled) {
         // For animated gif support
-        implementation 'com.facebook.fresco:animated-gif:2.0.0'
+        implementation 'com.facebook.fresco:animated-gif:3.6.0'
     }
 
     if (isWebpEnabled) {
