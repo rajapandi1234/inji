@@ -9,8 +9,8 @@ export const walletMetadata = {
       ],
     },
     mso_mdoc: {
-      alg_values_supported: ['ES256']
-    }
+      alg_values_supported: ['ES256'],
+    },
   },
   client_id_schemes_supported: ['redirect_uri', 'did', 'pre-registered'],
   request_object_signing_alg_values_supported: ['EdDSA'],
